@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806270093198",
+    "project_id": "java-authentication-c6e5b",
+    "storage_bucket": "java-authentication-c6e5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806270093198:android:ca290dd39c083f9d4b86df",
+        "android_client_info": {
+          "package_name": "com.nst.javaauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806270093198-7r8v87mr1k2b5q6a54in951rlrnq0ra5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEH06GxlI8zv4hiGZNcy6CSghvaRcNQjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806270093198-7r8v87mr1k2b5q6a54in951rlrnq0ra5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
