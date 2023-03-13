@@ -1,4 +1,4 @@
-package com.nst.javaautentication;
+package com.nst.javaauthentication;
 
 import androidx.appcompat.app.AppCompatActivity;
 

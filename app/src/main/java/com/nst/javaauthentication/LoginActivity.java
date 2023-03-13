@@ -1,12 +1,11 @@
-package com.nst.javaautentication;
+package com.nst.javaauthentication;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
 
-import com.nst.javaautentication.databinding.ActivityLoginBinding;
+import com.nst.javaauthentication.databinding.ActivityLoginBinding;
 
 public class LoginActivity extends AppCompatActivity {
 
