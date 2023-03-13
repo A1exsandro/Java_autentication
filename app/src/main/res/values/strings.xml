@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Java Autentication</string>
+    <string name="splash_activity">Splash Activity</string>
 </resources>
