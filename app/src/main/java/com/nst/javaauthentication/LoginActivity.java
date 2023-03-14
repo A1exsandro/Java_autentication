@@ -28,6 +28,9 @@ public class LoginActivity extends AppCompatActivity {
             startActivity(new Intent(this, SignUpActivity.class));
         });
 
+        binding.textForget.setOnClickListener(v ->
+                startActivity(new Intent(this, ForgetActivity.class)));
+
         binding.btnLogin.setOnClickListener(v -> validation());
     }
 
